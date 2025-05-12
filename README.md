@@ -26,13 +26,18 @@ Here are some of the projects included in this repository:
     Number Guesser
         Description: This is a game where the player has 3 guesses within the range of two given values.
         Features: JavaScript and HTML.
-        Screenshot: ![Screenshot from 2025-05-12 22-11-57](https://github.com/user-attachments/assets/509b27f0-b981-4924-b1c5-646ed83646ec)
+
+        Screenshot: 
+        ![Screenshot from 2025-05-12 22-01-37](https://github.com/user-attachments/assets/8a03be22-4650-497b-8baa-93aa373935f7)
+
 
 
     Task List
         Description: A task organizer that enlists new tasks, sort existing tasks and deletes tasks.
         Features: JavaScript and HTML.
-        Screenshot: ![Screenshot from 2025-05-12 22-16-41](https://github.com/user-attachments/assets/682ef2cb-69b0-482f-8ff8-cd36e9a2396f)
+        Screenshot:
+![Screenshot from 2025-05-12 22-16-41](https://github.com/user-attachments/assets/e3fa4640-8b93-4571-bf7b-55031cc3bd71)
+ 
 
 
 Feel free to add more projects with a similar structure.
