@@ -20,7 +20,8 @@ Here are some of the projects included in this repository:
     Loan Calculator
         Description: A loan calculator which accepts values, and then calculates the interest and amount to be paid in total over a certain period. 
         Features: JavaScript and HTML.
-        Screenshot: ![Screenshot from 2025-05-12 22-01-37](https://github.com/user-attachments/assets/fe61a882-9bb9-4b10-8c82-ccfae285dd7f)
+        Screenshot: 
+  ![Screenshot from 2025-05-12 22-01-37](https://github.com/user-attachments/assets/fe61a882-9bb9-4b10-8c82-ccfae285dd7f)
 
 
     Number Guesser
@@ -28,7 +29,7 @@ Here are some of the projects included in this repository:
         Features: JavaScript and HTML.
 
         Screenshot: 
-        ![Screenshot from 2025-05-12 22-01-37](https://github.com/user-attachments/assets/8a03be22-4650-497b-8baa-93aa373935f7)
+ ![Screenshot from 2025-05-12 22-01-37](https://github.com/user-attachments/assets/8a03be22-4650-497b-8baa-93aa373935f7)
 
 
 
