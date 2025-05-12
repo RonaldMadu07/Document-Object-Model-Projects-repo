@@ -29,7 +29,7 @@ Here are some of the projects included in this repository:
         Features: JavaScript and HTML.
 
         Screenshot: 
- ![Screenshot from 2025-05-12 22-01-37](https://github.com/user-attachments/assets/8a03be22-4650-497b-8baa-93aa373935f7)
+![Screenshot from 2025-05-12 22-11-57](https://github.com/user-attachments/assets/3a017e01-7411-4fe9-afb1-fbd76cad5f9e)
 
 
 
